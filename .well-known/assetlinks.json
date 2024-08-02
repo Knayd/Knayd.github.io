@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.androidapplinksexample",
+    "package_name": "org.lds.bom.dev",
     "sha256_cert_fingerprints":
-    ["DD:90:76:A9:7E:50:D7:0D:FA:EF:0B:5E:51:80:25:D1:A3:18:6F:45:6F:F0:2E:E9:51:2A:9F:E4:1C:20:63:B1"]
+    ["27:1D:0D:46:EB:1C:F4:5A:96:38:9B:E8:CA:D7:FD:7D:E9:C4:AA:F1:BA:68:69:16:9F:E4:2B:63:AC:B1:37:C2"]
   }
 }]
